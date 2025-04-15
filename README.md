@@ -30,7 +30,7 @@ A Flutter app for coronary artery detection, enhanced with authentication and UI
 ## Setup
 1. Clone:
    ```bash
-   git clone https://github.com/your-username/HeartVision-Flutter.git
+   git clone https://github.com/anshulbankey21/HeartVision-Flutter.git
 
 2. Install:
 
